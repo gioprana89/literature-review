@@ -4,9 +4,14 @@ st.set_page_config(layout="wide")
 
 import pandas as pd
 
+import numpy as np
+
 import plotly.graph_objects as go
 
 import plotly.express as px
+
+
+
 
 st.write('''<style>
          a:hover {
@@ -49,6 +54,10 @@ with tab1:
     ["Pengaruh Kinerja Keuangan Perusahaan (Firm Financial Performance) terhadap Kapitalisasi Pasar (Market Capitalization)", "Pengaruh Kinerja Keuangan Perusahaan (Firm Financial Performance) terhadap Harga Saham"],)
    
    if pilih_topik == "Pengaruh Kinerja Keuangan Perusahaan (Firm Financial Performance) terhadap Kapitalisasi Pasar (Market Capitalization)":
+    st.markdown("<br><br><br><center><h2 style='text-align: justify; color: blue;'>Tabel Ringkasan Literatur</h2></center>", unsafe_allow_html=True)
+    data_market_cap = pd.read_excel('Ringkasan Hasil Paper Market Capitalization.xlsx', index_col=0) 
+    st.dataframe(data_market_cap)
+
     tab1.markdown("<h3 style='text-align: justify; color: #39ff14;'><center>Penelusuran Literatur berdasarkan Pengaruh Kinerja Keuangan Perusahaan (<i>Firm Financial Performance</i>) terhadap Kapitalisasi Pasar (<i>Market Capitalization</i>)</center></h5>", unsafe_allow_html=True)
     st.write('''
 
