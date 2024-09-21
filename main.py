@@ -111,6 +111,8 @@ if pilih_topik == "Pengaruh Kinerja Keuangan Perusahaan (Firm Financial Performa
 
 <font color = "#ff00ff" size = 5><b>Tahun Terbit 2024</b></font><br>  
              [1] <a href = "https://ejournal.uigm.ac.id/index.php/EGMK/article/view/3905" target = "_blank" style = "text-decoration:none">Judul: Correlation Analysis Between Financial Ratios and Stock Prices of Real Estate Companies Listed on the Indonesia Stock Exchange | <font color = "#ff1493">Jurnal: Jurnal Ilmiah Ekonomi Global Masa Kini</font> | <font color = "#32cd32">Publisher: </font></a>
+             <br>
+             [2] <a href = "https://ip2i.org/jip/index.php/ema/article/view/177" target = "_blank" style = "text-decoration:none">Judul: The effect of return on asset and net profit margin on stock price | <font color = "#ff1493">Jurnal: Jurnal Ekonomi, Manajemen dan Akuntansi</font> | <font color = "#32cd32">Publisher: </font></a>
              <br><br><br>
 
 
@@ -123,6 +125,71 @@ if pilih_topik == "Pengaruh Kinerja Keuangan Perusahaan (Firm Financial Performa
              <br>
              [3] <a href = "https://journal.unnes.ac.id/nju/jda/article/view/40072/14223" target = "_blank" style = "text-decoration:none">Judul: Fundamental Analysis of Financial Ratios in Stock Price: Do Loss and Firm Size Matter? | <font color = "#ff1493">Jurnal: Almana : Jurnal Dinamika Akuntansi</font> | <font color = "#32cd32">Publisher: </font></a>
              <br><br><br>
+
+
+             
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2018</b></font><br>  
+             [1] <a href = "https://www.econjournals.com.tr/index.php/ijeep/article/view/5964" target = "_blank" style = "text-decoration:none">Judul: Impact of Accounting Information on Financial Statements to the Stock Price of the Energy Enterprises Listed on Vietnam's Stock Market | <font color = "#ff1493">Jurnal: International Journal of Energy Economics and Policy</font> | <font color = "#32cd32">Publisher: </font></a>
+            <br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2017</b></font><br>  
+             [1] <a href = "https://journal.unpak.ac.id/index.php/jiafe/article/view/778/0" target = "_blank" style = "text-decoration:none">Judul: THE EFFECT OF FINANCIAL PERFORMANCE ON STOCK PRICE AT PHARMACEUTICAL SUB-SECTOR COMPANY LISTED IN INDONESIA STOCK EXCHANGE | <font color = "#ff1493">Jurnal: JIAFE (Jurnal Ilmiah Akuntansi Fakultas Ekonomi)</font> | <font color = "#32cd32">Publisher: </font></a>
+             <br>
+             [2] <a href = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3542011" target = "_blank" style = "text-decoration:none">Judul: The Effect of Financial Performance and Corporate Governance to Stock Price in Non-Bank Financial Industry | <font color = "#ff1493">Jurnal: Corporate Ownership & Control</font> | <font color = "#32cd32">Publisher: </font></a>             
+             [3] <a href = "https://www.atlantis-press.com/proceedings/icame-17/25885676" target = "_blank" style = "text-decoration:none">Judul: Is Financial Performance Reflected in Stock Prices? | <font color = "#ff1493">Jurnal: Proceedings of the 2nd International Conference on Accounting, Management, and Economics 2017 (ICAME 2017): Advances in Economics, Business and Management Research</font> | <font color = "#32cd32">Publisher: </font></a>             
+             <br><br><br>
+
+
+             
+
+
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2016</b></font><br>  
+             [1] <a href = "https://journal.perbanas.ac.id/index.php/tiar/article/view/853" target = "_blank" style = "text-decoration:none">Judul: The influence of profitability ratio, market ratio, and solvency ratio on the share prices of companies listed on LQ 45 Index | <font color = "#ff1493">Jurnal: The Indonesian Accounting Review</font> | <font color = "#32cd32">Publisher: </font></a>
+            <br><br><br>
+
+
+
+
+
+
+
+
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2014</b></font><br>  
+             [1] <a href = "https://journal.perbanas.ac.id/index.php/jebav/article/view/356" target = "_blank" style = "text-decoration:none">Judul: The effect of fundamental and technical variables on stock price (Study on manufacturing companies listed in Indonesia Stock Exchange) | <font color = "#ff1493">Jurnal: Journal of Economics, Business, and Accountancy Ventura</font> | <font color = "#32cd32">Publisher: </font></a>       
+             <br><br><br>
+
+
+
+
+
+
+             
+
+
+
+
+
+
+
+
 
 
 
