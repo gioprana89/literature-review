@@ -105,6 +105,43 @@ with tab1:
                   ''', unsafe_allow_html=True)
 
 
+if pilih_topik == "Pengaruh Kinerja Keuangan Perusahaan (Firm Financial Performance) terhadap Harga Saham":
+    tab1.markdown("<h3 style='text-align: justify; color: #39ff14;'><center>Penelusuran Literatur berdasarkan Pengaruh Kinerja Keuangan Perusahaan (<i>Firm Financial Performance</i>) terhadap Harga Saham (<i>Stock Price</i>)</center></h5>", unsafe_allow_html=True)
+    st.write('''
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2024</b></font><br>  
+             [1] <a href = "https://ejournal.uigm.ac.id/index.php/EGMK/article/view/3905" target = "_blank" style = "text-decoration:none">Judul: Correlation Analysis Between Financial Ratios and Stock Prices of Real Estate Companies Listed on the Indonesia Stock Exchange | <font color = "#ff1493">Jurnal: Jurnal Ilmiah Ekonomi Global Masa Kini</font> | <font color = "#32cd32">Publisher: </font></a>
+             <br><br><br>
+
+
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2023</b></font><br>  
+             [1] <a href = "https://sloap.org/journal/index.php/ijbem/article/view/2058" target = "_blank" style = "text-decoration:none">Judul: The effect of financial ratio on stock price in telecommunications sector companies listed on the Indonesia stock exchange | <font color = "#ff1493">Jurnal: International Journal of Business, Economics & Management</font> | <font color = "#32cd32">Publisher: </font></a>
+             <br>
+             [2] <a href = "http://journalfeb.unla.ac.id/index.php/almana/article/view/2071" target = "_blank" style = "text-decoration:none">Judul: Analysis of Financial Ratio to Stock Price | <font color = "#ff1493">Jurnal: Almana : Jurnal Manajemen dan Bisnis</font> | <font color = "#32cd32">Publisher: </font></a>
+             <br>
+             [3] <a href = "https://journal.unnes.ac.id/nju/jda/article/view/40072/14223" target = "_blank" style = "text-decoration:none">Judul: Fundamental Analysis of Financial Ratios in Stock Price: Do Loss and Firm Size Matter? | <font color = "#ff1493">Jurnal: Almana : Jurnal Dinamika Akuntansi</font> | <font color = "#32cd32">Publisher: </font></a>
+             <br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+             ''', unsafe_allow_html = True)
+
+
+
+
+
 
 with tab2:
    st.header(":blue[Lain-Lain]")
