@@ -51,7 +51,7 @@ with tab1:
    
    pilih_topik = st.radio(
     "Pilih Topik: ",
-    ["Pengaruh Kinerja Keuangan Perusahaan (Firm Financial Performance) terhadap Kapitalisasi Pasar (Market Capitalization)", "Pengaruh Kinerja Keuangan Perusahaan (Firm Financial Performance) terhadap Harga Saham"],)
+    ["Pengaruh Kinerja Keuangan Perusahaan (Firm Financial Performance) terhadap Kapitalisasi Pasar (Market Capitalization)", "Pengaruh Kinerja Keuangan Perusahaan (Firm Financial Performance) terhadap Harga Saham", "Bankruptcy, Financial Distress, Financial Health on Stock Price"],)
    
    if pilih_topik == "Pengaruh Kinerja Keuangan Perusahaan (Firm Financial Performance) terhadap Kapitalisasi Pasar (Market Capitalization)":
     st.markdown("<br><br><br><center><h2 style='text-align: justify; color: blue;'>Tabel Ringkasan Literatur</h2></center>", unsafe_allow_html=True)
@@ -113,6 +113,12 @@ if pilih_topik == "Pengaruh Kinerja Keuangan Perusahaan (Firm Financial Performa
              [1] <a href = "https://ejournal.uigm.ac.id/index.php/EGMK/article/view/3905" target = "_blank" style = "text-decoration:none">Judul: Correlation Analysis Between Financial Ratios and Stock Prices of Real Estate Companies Listed on the Indonesia Stock Exchange | <font color = "#ff1493">Jurnal: Jurnal Ilmiah Ekonomi Global Masa Kini</font> | <font color = "#32cd32">Publisher: </font></a>
              <br>
              [2] <a href = "https://ip2i.org/jip/index.php/ema/article/view/177" target = "_blank" style = "text-decoration:none">Judul: The effect of return on asset and net profit margin on stock price | <font color = "#ff1493">Jurnal: Jurnal Ekonomi, Manajemen dan Akuntansi</font> | <font color = "#32cd32">Publisher: </font></a>
+             <br>
+             [3] <a href = "https://ip2i.org/jip/index.php/ema/article/view/155" target = "_blank" style = "text-decoration:none">Judul: The effect of market value added and dividend payout ratio on stock prices | <font color = "#ff1493">Jurnal: Jurnal Ekonomi, Manajemen dan Akuntansi</font> | <font color = "#32cd32">Publisher: </font></a>
+             <br>
+             [4] <a href = "https://ip2i.org/jip/index.php/ema/article/view/100" target = "_blank" style = "text-decoration:none">Judul: The effect of cash flow changes on stock prices | <font color = "#ff1493">Jurnal: Jurnal Ekonomi, Manajemen dan Akuntansi</font> | <font color = "#32cd32">Publisher: </font></a>
+             <br>
+             [5] <a href = "https://ip2i.org/jip/index.php/ema/article/view/129" target = "_blank" style = "text-decoration:none">Judul: The effect of earning per share and debt to equity ratio on the share price | <font color = "#ff1493">Jurnal: Jurnal Ekonomi, Manajemen dan Akuntansi</font> | <font color = "#32cd32">Publisher: </font></a>
              <br><br><br>
 
 
@@ -127,7 +133,11 @@ if pilih_topik == "Pengaruh Kinerja Keuangan Perusahaan (Firm Financial Performa
              <br><br><br>
 
 
-             
+ <font color = "#ff00ff" size = 5><b>Tahun Terbit 2019</b></font><br>  
+             [1] <a href = "https://journal.uinjkt.ac.id/index.php/etikonomi/article/view/10987/pdf" target = "_blank" style = "text-decoration:none">Judul: The Determinant of Stock Prices: Evidence on Food and Beverage Companies in Indonesia | <font color = "#ff1493">Jurnal: Etikonomi</font> | <font color = "#32cd32">Publisher: </font></a>
+            <br><br><br>
+
+            
 
 
 <font color = "#ff00ff" size = 5><b>Tahun Terbit 2018</b></font><br>  
@@ -205,6 +215,23 @@ if pilih_topik == "Pengaruh Kinerja Keuangan Perusahaan (Firm Financial Performa
 
              ''', unsafe_allow_html = True)
 
+
+
+
+if pilih_topik == "Bankruptcy, Financial Distress, Financial Health on Stock Price":
+    tab1.markdown("<h3 style='text-align: justify; color: #39ff14;'><center>Penelusuran Literatur berdasarkan Pengaruh Kinerja Keuangan Perusahaan (<i>Firm Financial Performance</i>) terhadap Harga Saham (<i>Stock Price</i>)</center></h5>", unsafe_allow_html=True)
+    st.write('''
+             
+
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2018</b></font><br>  
+             [1] <a href = "https://journal.uinjkt.ac.id/index.php/etikonomi/article/view/6559/pdf" target = "_blank" style = "text-decoration:none">Judul: Bankruptcy Prediction Models and Stock Prices of the Coal Mining Industry in Indonesia | <font color = "#ff1493">Jurnal: Etikonomi</font> | <font color = "#32cd32">Publisher: </font></a>       
+             <br><br><br>
+
+
+
+             ''', unsafe_allow_html = True)
 
 
 
