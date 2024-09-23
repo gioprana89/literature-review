@@ -51,7 +51,7 @@ with tab1:
    
    pilih_topik = st.radio(
     "Pilih Topik: ",
-    [":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Kapitalisasi Pasar (***Market Capitalization***)]", ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh Kebangkrutan (***Bankruptcy***) atau Kesulitan Keuangan (***Financial Distress***) atau Kesehatan Keuangan (***Financial Health***) Perusahaan terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Resiko Jatuhnya Harga Saham (***Stock Price Crash Risk***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Kinerja Perusahaan (***Firm Performance***) atau Kinerja Keuangan (***Financial Performance***)]", ":rainbow[Definisi Kinerja Keuangan (***Financial Performance***) Perusahaan atau Kinerja Perusahaan (***Firm Performance***)]", ":rainbow[Definisi ***Market Capitalization***]", ":rainbow[Definisi ***Stock Price Crash Risk***]"],)
+    [":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Kapitalisasi Pasar (***Market Capitalization***)]", ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh Kebangkrutan (***Bankruptcy***) atau Kesulitan Keuangan (***Financial Distress***) atau Kesehatan Keuangan (***Financial Health***) Perusahaan terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Resiko Jatuhnya Harga Saham (***Stock Price Crash Risk***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Kinerja Perusahaan (***Firm Performance***) atau Kinerja Keuangan (***Financial Performance***)]", ":rainbow[Definisi Kinerja Keuangan (***Financial Performance***) Perusahaan atau Kinerja Perusahaan (***Firm Performance***)]", ":rainbow[Definisi ***Market Capitalization***]", ":rainbow[Definisi ***Stock Price Crash Risk***]", ":rainbow[Definisi ***Intellectual Capital***]"],)
    
    if pilih_topik == ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Kapitalisasi Pasar (***Market Capitalization***)]":
 
@@ -421,7 +421,6 @@ if pilih_topik == ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Kinerja
 if pilih_topik == ":rainbow[Definisi Kinerja Keuangan (***Financial Performance***) Perusahaan atau Kinerja Perusahaan (***Firm Performance***)]":
     tab1.markdown("<h2 style='text-align: justify; color: #ffcc00;'><center>Penelusuran Literatur berdasarkan Definisi Kinerja Keuangan (<i>Financial Performance</i>) Perusahaan atau Kinerja Perusahaan (<i>Firm Performance</i>)</center></h5>", unsafe_allow_html=True)
 
-    
 
 
 
@@ -482,7 +481,18 @@ if pilih_topik == ":rainbow[Definisi Kinerja Keuangan (***Financial Performance*
 if pilih_topik == ":rainbow[Definisi ***Market Capitalization***]":
     tab1.markdown("<h2 style='text-align: justify; color: #ffcc00;'><center>Penelusuran Literatur berdasarkan Definisi <i>Market Capitalization</i>", unsafe_allow_html=True)
 
-    
+    st.write('''
+             
+
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2023</b></font><br>  
+             [1] <a href = "https://www.tandfonline.com/doi/full/10.1080/23322039.2023.2252652" target = "_blank" style = "text-decoration:none">Judul: Six-factor plus intellectual capital in the capital asset pricing model and excess stock return: Empirical evidence in emerging stock markets | <font color = "#ff1493">Jurnal: Cogent Economics & Finance</font> | <font color = "#32cd32">Publisher: Taylor & Francis</font></a>       
+             <br><br><br>
+
+
+
+             ''', unsafe_allow_html = True)
 
 
 
@@ -519,10 +529,65 @@ if pilih_topik == ":rainbow[Definisi ***Market Capitalization***]":
 if pilih_topik == ":rainbow[Definisi ***Stock Price Crash Risk***]":
     tab1.markdown("<h2 style='text-align: justify; color: #ffcc00;'><center>Penelusuran Literatur berdasarkan Definisi <i>Stock Price Crash Risk</i>", unsafe_allow_html=True)
 
+    st.write('''
+             
+
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2023</b></font><br>  
+             [1] <a href = "https://www.tandfonline.com/doi/full/10.1080/23322039.2023.2252652" target = "_blank" style = "text-decoration:none">Judul: Six-factor plus intellectual capital in the capital asset pricing model and excess stock return: Empirical evidence in emerging stock markets | <font color = "#ff1493">Jurnal: Cogent Economics & Finance</font> | <font color = "#32cd32">Publisher: Taylor & Francis</font></a>       
+             <br><br><br>
+
+
+
+             ''', unsafe_allow_html = True)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if pilih_topik == ":rainbow[Definisi ***Intellectual Capital***]":
+    tab1.markdown("<h2 style='text-align: justify; color: #ffcc00;'><center>Penelusuran Literatur berdasarkan Definisi <i>Intellectual Capital</i>", unsafe_allow_html=True)
+
     
+    st.write('''
+             
 
 
 
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2023</b></font><br>  
+             [1] <a href = "https://www.tandfonline.com/doi/full/10.1080/23322039.2023.2252652" target = "_blank" style = "text-decoration:none">Judul: Six-factor plus intellectual capital in the capital asset pricing model and excess stock return: Empirical evidence in emerging stock markets | <font color = "#ff1493">Jurnal: Cogent Economics & Finance</font> | <font color = "#32cd32">Publisher: Taylor & Francis</font></a>       
+             <br><br><br>
+
+
+
+             ''', unsafe_allow_html = True)
 
 
 
