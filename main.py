@@ -51,14 +51,11 @@ with tab1:
    
    pilih_topik = st.radio(
     "Pilih Topik: ",
-    ["Pengaruh Kinerja Keuangan Perusahaan (Firm Financial Performance) terhadap Kapitalisasi Pasar (Market Capitalization)", "Pengaruh Kinerja Keuangan Perusahaan (Firm Financial Performance) terhadap Harga Saham", "Bankruptcy, Financial Distress, Financial Health on Stock Price"],)
+    [":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Kapitalisasi Pasar (***Market Capitalization***)]", ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh Kebangkrutan (***Bankruptcy***) atau Kesulitan Keuangan (***Financial Distress***) atau Kesehatan Keuangan (***Financial Health***) Perusahaan terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh Intellectual Capital terhadap Harga Saham (***Stock Price***)]"],)
    
-   if pilih_topik == "Pengaruh Kinerja Keuangan Perusahaan (Firm Financial Performance) terhadap Kapitalisasi Pasar (Market Capitalization)":
-    st.markdown("<br><br><br><center><h2 style='text-align: justify; color: blue;'>Tabel Ringkasan Literatur</h2></center>", unsafe_allow_html=True)
-    data_market_cap = pd.read_excel('Ringkasan Hasil Paper Market Capitalization.xlsx', index_col=0) 
-    st.dataframe(data_market_cap)
+   if pilih_topik == ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Kapitalisasi Pasar (***Market Capitalization***)]":
 
-    tab1.markdown("<h3 style='text-align: justify; color: #39ff14;'><center>Penelusuran Literatur berdasarkan Pengaruh Kinerja Keuangan Perusahaan (<i>Firm Financial Performance</i>) terhadap Kapitalisasi Pasar (<i>Market Capitalization</i>)</center></h5>", unsafe_allow_html=True)
+    tab1.markdown("<h2 style='text-align: justify; color: #ffcc00;'><center>Penelusuran Literatur berdasarkan Pengaruh Kinerja Keuangan Perusahaan (<i>Firm Financial Performance</i>) atau Rasio Finansial (<i>Financial Ratios</i>) terhadap Kapitalisasi Pasar (<i>Market Capitalization</i>)</center></h5>", unsafe_allow_html=True)
     st.write('''
 
 <font color = "#ff00ff" size = 5><b>Tahun Terbit 2023</b></font><br>  
@@ -103,10 +100,27 @@ with tab1:
 
 
                   ''', unsafe_allow_html=True)
+    
+
+    st.markdown("<br><br><br><center><h2 style='text-align: justify; color: blue;'>Tabel Ringkasan Literatur</h2></center>", unsafe_allow_html=True)
+    data_market_cap = pd.read_excel('Ringkasan Hasil Paper Market Capitalization.xlsx', index_col=0) 
+    st.dataframe(data_market_cap)
 
 
-if pilih_topik == "Pengaruh Kinerja Keuangan Perusahaan (Firm Financial Performance) terhadap Harga Saham":
-    tab1.markdown("<h3 style='text-align: justify; color: #39ff14;'><center>Penelusuran Literatur berdasarkan Pengaruh Kinerja Keuangan Perusahaan (<i>Firm Financial Performance</i>) terhadap Harga Saham (<i>Stock Price</i>)</center></h5>", unsafe_allow_html=True)
+
+
+
+
+
+
+
+
+
+
+
+
+if pilih_topik == ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Harga Saham (***Stock Price***)]":
+    tab1.markdown("<h2 style='text-align: justify; color: #ffcc00;'><center>Pengaruh Kinerja Keuangan Perusahaan (<i>Firm Financial Performance</i>) atau Rasio Finansial (<i>Financial Ratios</i>) terhadap Harga Saham (<i>Stock Price</i>)</center></h5>", unsafe_allow_html=True)
     st.write('''
 
 <font color = "#ff00ff" size = 5><b>Tahun Terbit 2024</b></font><br>  
@@ -218,8 +232,8 @@ if pilih_topik == "Pengaruh Kinerja Keuangan Perusahaan (Firm Financial Performa
 
 
 
-if pilih_topik == "Bankruptcy, Financial Distress, Financial Health on Stock Price":
-    tab1.markdown("<h3 style='text-align: justify; color: #39ff14;'><center>Penelusuran Literatur berdasarkan Pengaruh Kinerja Keuangan Perusahaan (<i>Firm Financial Performance</i>) terhadap Harga Saham (<i>Stock Price</i>)</center></h5>", unsafe_allow_html=True)
+if pilih_topik == ":rainbow[Pengaruh Kebangkrutan (***Bankruptcy***) atau Kesulitan Keuangan (***Financial Distress***) atau Kesehatan Keuangan (***Financial Health***) Perusahaan terhadap Harga Saham (***Stock Price***)]":
+    tab1.markdown("<h3 style='text-align: justify; color: #ffcc00;'><center>Penelusuran Literatur berdasarkan Pengaruh Kebangkrutan (<i>Bankruptcy</i>) atau Kesulitan Keuangan (<i>Financial Distress</i>) atau Kesehatan Keuangan (<i>Financial Health</i>) Perusahaan terhadap Harga Saham (<i>Stock Price</i>)</center></h5>", unsafe_allow_html=True)
     st.write('''
              
 
@@ -232,6 +246,39 @@ if pilih_topik == "Bankruptcy, Financial Distress, Financial Health on Stock Pri
 
 
              ''', unsafe_allow_html = True)
+
+
+
+
+
+
+
+
+
+
+
+
+if pilih_topik == ":rainbow[Pengaruh Intellectual Capital terhadap Harga Saham (***Stock Price***)]":
+    tab1.markdown("<h2 style='text-align: justify; color: #ffcc00;'><center>Penelusuran Literatur berdasarkan Pengaruh <i>Intellectual Capital</i> terhadap Harga Saham (<i>Stock Price</i>)</center></h5>", unsafe_allow_html=True)
+    st.write('''
+             
+
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2014</b></font><br>  
+             [1] <a href = "https://register-jobfair.perbanas.ac.id/index.php/tiar/article/view/284" target = "_blank" style = "text-decoration:none">Judul: The impact of intellectual capital on stock price with financial performance as intervening variable of manufacturing listed in Indonesia Stock Exchange period 2008 – 2012 | <font color = "#ff1493">Jurnal: The Indonesian Accounting Review</font> | <font color = "#32cd32">Publisher: </font></a>       
+             <br><br><br>
+
+
+
+             ''', unsafe_allow_html = True)
+    
+
+
+
+
+
+
 
 
 
