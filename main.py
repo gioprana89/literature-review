@@ -51,7 +51,7 @@ with tab1:
    
    pilih_topik = st.radio(
     "Pilih Topik: ",
-    [":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Kapitalisasi Pasar (***Market Capitalization***)]", ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh Kebangkrutan (***Bankruptcy***) atau Kesulitan Keuangan (***Financial Distress***) atau Kesehatan Keuangan (***Financial Health***) Perusahaan terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Resiko Jatuhnya Harga Saham (***Stock Price Crash Risk***)]", ":rainbow[Definisi Kinerja Keuangan (***Financial Performance***) Perusahaan atau Kinerja Perusahaan (***Firm Performance***)]", ":rainbow[Definisi ***Market Capitalization***]", ":rainbow[Definisi ***Stock Price Crash Risk***]"],)
+    [":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Kapitalisasi Pasar (***Market Capitalization***)]", ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh Kebangkrutan (***Bankruptcy***) atau Kesulitan Keuangan (***Financial Distress***) atau Kesehatan Keuangan (***Financial Health***) Perusahaan terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Resiko Jatuhnya Harga Saham (***Stock Price Crash Risk***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Kinerja Perusahaan (***Firm Performance***) atau Kinerja Keuangan (***Financial Performance***)]", ":rainbow[Definisi Kinerja Keuangan (***Financial Performance***) Perusahaan atau Kinerja Perusahaan (***Firm Performance***)]", ":rainbow[Definisi ***Market Capitalization***]", ":rainbow[Definisi ***Stock Price Crash Risk***]"],)
    
    if pilih_topik == ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Kapitalisasi Pasar (***Market Capitalization***)]":
 
@@ -304,6 +304,85 @@ if pilih_topik == ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Resiko 
 
              ''', unsafe_allow_html = True)
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if pilih_topik == ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Kinerja Perusahaan (***Firm Performance***) atau Kinerja Keuangan (***Financial Performance***)]":
+    tab1.markdown("<h2 style='text-align: justify; color: #ffcc00;'><center>Penelusuran Literatur berdasarkan Pengaruh <i>Intellectual Capital</i> terhadap Kinerja Perusahaan (<i>Firm Performance</i>) atau Kinerja Keuangan (<i>Financial Performance</i>)</center></h5>", unsafe_allow_html=True)
+    st.write('''
+             
+
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2020</b></font><br>  
+             [1] <a href = "https://www.emerald.com/insight/content/doi/10.1108/JIC-09-2019-0225/full/html" target = "_blank" style = "text-decoration:none">Judul: Measures that matter: an empirical investigation of intellectual capital and financial performance of banking firms in Indonesia | <font color = "#ff1493">Jurnal: Journal of Intellectual Capital</font> | <font color = "#32cd32">Publisher: Emerald</font></a>       
+             <br><br><br>
+
+
+
+             ''', unsafe_allow_html = True)
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
