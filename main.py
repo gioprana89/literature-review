@@ -352,7 +352,46 @@ if pilih_topik == ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Kinerja
 
 <font color = "#ff00ff" size = 5><b>Tahun Terbit 2020</b></font><br>  
              [1] <a href = "https://www.emerald.com/insight/content/doi/10.1108/JIC-09-2019-0225/full/html" target = "_blank" style = "text-decoration:none">Judul: Measures that matter: an empirical investigation of intellectual capital and financial performance of banking firms in Indonesia | <font color = "#ff1493">Jurnal: Journal of Intellectual Capital</font> | <font color = "#32cd32">Publisher: Emerald</font></a>       
+             [2] <a href = "https://journals.sagepub.com/doi/abs/10.1177/0972262920914108" target = "_blank" style = "text-decoration:none">Judul: Intellectual Capital and Profitability: Evidence from Indian Pharmaceutical Sector | <font color = "#ff1493">Jurnal: Vision: The Journal of Business Perspective</font> | <font color = "#32cd32">Publisher: SAGE Journals</font></a>       
              <br><br><br>
+
+
+             
+
+  <font color = "#ff00ff" size = 5><b>Tahun Terbit 2017</b></font><br>  
+             [1] <a href = "https://www.emerald.com/insight/content/doi/10.1108/JIC-01-2017-0014/full/html" target = "_blank" style = "text-decoration:none">Judul: Impact of intellectual capital on corporate performance: evidence from the Arab region | <font color = "#ff1493">Jurnal: Journal of Intellectual Capital</font> | <font color = "#32cd32">Publisher: Emerald</font></a>
+             <br><br><br>
+
+
+
+
+
+
+
+  <font color = "#ff00ff" size = 5><b>Tahun Terbit 2012</b></font><br>  
+             [1] <a href = "https://www.emerald.com/insight/content/doi/10.1108/13683041211204671/full/html" target = "_blank" style = "text-decoration:none">Judul: The effect of intellectual capital on firm performance: an investigation of Iran insurance companies | <font color = "#ff1493">Jurnal: Measuring Business Excellence</font> | <font color = "#32cd32">Publisher: Emerald</font></a>
+             <br><br><br>
+
+
+
+
+
+
+  <font color = "#ff00ff" size = 5><b>Tahun Terbit 2007</b></font><br>  
+             [1] <a href = "http://americanscholarspress.us/journals/IMR/pdf/IMR-2-2007/v3n207-art2.pdf" target = "_blank" style = "text-decoration:none">Judul: The Impact of Intellectual Capital on Investors’ Capital Gains on Shares: An Empirical Investigation of Thai Banking, Finance & Insurance Sector | <font color = "#ff1493">Jurnal: International Management Review</font> | <font color = "#32cd32">Publisher: </font></a><br><br><br>  
+
+
+
+
+
+
+
+
+
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2005</b></font><br>  
+             [1] <a href = "https://www.emerald.com/insight/content/doi/10.1108/14691930510592771/full/html" target = "_blank" style = "text-decoration:none">Judul: An empirical investigation of the relationship between intellectual capital and firms’ market value and financial performance | <font color = "#ff1493">Jurnal: Journal of Intellectual Capital</font> | <font color = "#32cd32">Publisher: Emerald</font></a>    
 
 
 
@@ -529,18 +568,6 @@ if pilih_topik == ":rainbow[Definisi ***Market Capitalization***]":
 if pilih_topik == ":rainbow[Definisi ***Stock Price Crash Risk***]":
     tab1.markdown("<h2 style='text-align: justify; color: #ffcc00;'><center>Penelusuran Literatur berdasarkan Definisi <i>Stock Price Crash Risk</i>", unsafe_allow_html=True)
 
-    st.write('''
-             
-
-
-
-<font color = "#ff00ff" size = 5><b>Tahun Terbit 2023</b></font><br>  
-             [1] <a href = "https://www.tandfonline.com/doi/full/10.1080/23322039.2023.2252652" target = "_blank" style = "text-decoration:none">Judul: Six-factor plus intellectual capital in the capital asset pricing model and excess stock return: Empirical evidence in emerging stock markets | <font color = "#ff1493">Jurnal: Cogent Economics & Finance</font> | <font color = "#32cd32">Publisher: Taylor & Francis</font></a>       
-             <br><br><br>
-
-
-
-             ''', unsafe_allow_html = True)
 
 
 
@@ -584,6 +611,34 @@ if pilih_topik == ":rainbow[Definisi ***Intellectual Capital***]":
 <font color = "#ff00ff" size = 5><b>Tahun Terbit 2023</b></font><br>  
              [1] <a href = "https://www.tandfonline.com/doi/full/10.1080/23322039.2023.2252652" target = "_blank" style = "text-decoration:none">Judul: Six-factor plus intellectual capital in the capital asset pricing model and excess stock return: Empirical evidence in emerging stock markets | <font color = "#ff1493">Jurnal: Cogent Economics & Finance</font> | <font color = "#32cd32">Publisher: Taylor & Francis</font></a>       
              <br><br><br>
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2018</b></font><br>  
+             [1] <a href = "https://www.emerald.com/insight/content/doi/10.1108/JIC-09-2016-0091/full/html" target = "_blank" style = "text-decoration:none">Judul: Intellectual capital efficiency and corporate book value: evidence from Nigerian economy | <font color = "#ff1493">Jurnal: Journal of Intellectual Capital</font> | <font color = "#32cd32">Publisher: Emerald</font></a>       
+             <br><br><br>
+
+             
+
+
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2007</b></font><br>  
+             [1] <a href = "https://www.emerald.com/insight/content/doi/10.1108/14691930710715088/full/html" target = "_blank" style = "text-decoration:none">Judul: The intellectual capital performance of the Indian banking sector | <font color = "#ff1493">Jurnal: Journal of Intellectual Capital</font> | <font color = "#32cd32">Publisher: Emerald</font></a>       
+             <br><br><br>
+
+             
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2005</b></font><br>  
+             [1] <a href = "https://www.emerald.com/insight/content/doi/10.1108/00251740510626254/full/html" target = "_blank" style = "text-decoration:none">Judul: Linking intellectual capital and intellectual property to company performance | <font color = "#ff1493">Jurnal: Journal of Intellectual Capital</font> | <font color = "#32cd32">Publisher: Emerald</font></a>       
+             <br><br><br>
+
+             
+
+
+
+
+
+
+
 
 
 
