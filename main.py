@@ -51,7 +51,7 @@ with tab1:
    
    pilih_topik = st.radio(
     "Pilih Topik: ",
-    [":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Kapitalisasi Pasar (***Market Capitalization***)]", ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh Kebangkrutan (***Bankruptcy***) atau Kesulitan Keuangan (***Financial Distress***) atau Kesehatan Keuangan (***Financial Health***) Perusahaan terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Resiko Jatuhnya Harga Saham (***Stock Price Crash Risk***)]"],)
+    [":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Kapitalisasi Pasar (***Market Capitalization***)]", ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh Kebangkrutan (***Bankruptcy***) atau Kesulitan Keuangan (***Financial Distress***) atau Kesehatan Keuangan (***Financial Health***) Perusahaan terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Resiko Jatuhnya Harga Saham (***Stock Price Crash Risk***)]", ":rainbow[Definisi Kinerja Keuangan (***Financial Performance***) Perusahaan atau Kinerja Perusahaan (***Firm Performance***)]", ":rainbow[Definisi ***Market Capitalization***]", ":rainbow[Definisi ***Stock Price Crash Risk***]"],)
    
    if pilih_topik == ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Kapitalisasi Pasar (***Market Capitalization***)]":
 
@@ -304,6 +304,171 @@ if pilih_topik == ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Resiko 
 
              ''', unsafe_allow_html = True)
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if pilih_topik == ":rainbow[Definisi Kinerja Keuangan (***Financial Performance***) Perusahaan atau Kinerja Perusahaan (***Firm Performance***)]":
+    tab1.markdown("<h2 style='text-align: justify; color: #ffcc00;'><center>Penelusuran Literatur berdasarkan Definisi Kinerja Keuangan (<i>Financial Performance</i>) Perusahaan atau Kinerja Perusahaan (<i>Firm Performance</i>)</center></h5>", unsafe_allow_html=True)
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if pilih_topik == ":rainbow[Definisi ***Market Capitalization***]":
+    tab1.markdown("<h2 style='text-align: justify; color: #ffcc00;'><center>Penelusuran Literatur berdasarkan Definisi <i>Market Capitalization</i>", unsafe_allow_html=True)
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if pilih_topik == ":rainbow[Definisi ***Stock Price Crash Risk***]":
+    tab1.markdown("<h2 style='text-align: justify; color: #ffcc00;'><center>Penelusuran Literatur berdasarkan Definisi <i>Stock Price Crash Risk</i>", unsafe_allow_html=True)
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
