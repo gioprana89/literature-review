@@ -51,7 +51,7 @@ with tab1:
    
    pilih_topik = st.radio(
     "Pilih Topik: ",
-    [":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Kapitalisasi Pasar (***Market Capitalization***)]", ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh Kebangkrutan (***Bankruptcy***) atau Kesulitan Keuangan (***Financial Distress***) atau Kesehatan Keuangan (***Financial Health***) Perusahaan terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Resiko Jatuhnya Harga Saham (***Stock Price Crash Risk***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Kinerja Perusahaan (***Firm Performance***) atau Kinerja Keuangan (***Financial Performance***)]", ":rainbow[Pengaruh ***Financial Ratio*** terhadap ***Stock Trading Volume***]", ":rainbow[Definisi Kinerja Keuangan (***Financial Performance***) Perusahaan atau Kinerja Perusahaan (***Firm Performance***)]", ":rainbow[Definisi ***Market Capitalization***]", ":rainbow[Definisi ***Stock Price Crash Risk***]", ":rainbow[Definisi ***Intellectual Capital***]",  ":rainbow[Definisi ***Stock Trading Volume***]",     ":rainbow[Bursa Efek Indonesia (***Indonesia Stock Exchange)***]",         ":rainbow[PT Kustodian Sentral Efek Indonesia ]"         ],)
+    [":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Kapitalisasi Pasar (***Market Capitalization***)]", ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh Kebangkrutan (***Bankruptcy***) atau Kesulitan Keuangan (***Financial Distress***) atau Kesehatan Keuangan (***Financial Health***) Perusahaan terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Resiko Jatuhnya Harga Saham (***Stock Price Crash Risk***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Kinerja Perusahaan (***Firm Performance***) atau Kinerja Keuangan (***Financial Performance***)]", ":rainbow[Pengaruh ***Financial Ratio*** terhadap ***Stock Trading Volume***]", ":rainbow[Pengaruh ***Stock Trading Volume*** terhadap Harga Saham (***Stock Price***)]", ":rainbow[Definisi Kinerja Keuangan (***Financial Performance***) Perusahaan atau Kinerja Perusahaan (***Firm Performance***)]", ":rainbow[Definisi ***Market Capitalization***]", ":rainbow[Definisi ***Stock Price Crash Risk***]", ":rainbow[Definisi ***Intellectual Capital***]",  ":rainbow[Definisi ***Stock Trading Volume***]",     ":rainbow[Bursa Efek Indonesia (***Indonesia Stock Exchange)***]",         ":rainbow[PT Kustodian Sentral Efek Indonesia ]"         ],)
    
    if pilih_topik == ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Kapitalisasi Pasar (***Market Capitalization***)]":
 
@@ -1203,6 +1203,7 @@ if pilih_topik == ":rainbow[Definisi ***Stock Trading Volume***]":
 
 <font color = "#ff00ff" size = 5><b>Tahun Terbit 2021</b></font><br>  
              [1] <a href = "https://www.emerald.com/insight/content/doi/10.1108/JDQS-01-2021-0003/full/html" target = "_blank" style = "text-decoration:none">Judul: The short-term mean reversion of stock price and the change in trading volume | <font color = "#ff1493">Jurnal: Journal of Derivatives and Quantitative Studies</font> | <font color = "#32cd32">Publisher: Emerald</font></a>       
+             [2] <a href = "https://www.igbr.org/wp-content/Journals/2021/GJAF_Vol_5_No_2_2021.pdf#page=27" target = "_blank" style = "text-decoration:none">Judul: RELATIONSHIPS BETWEEN STOCK PRICE, TRADING VOLUME, AND BID-ASK SPREAD ON THE US STOCK EXCHANGE: AN EMPIRICAL INVESTIGATION | <font color = "#ff1493">Jurnal: Global Journal of Accounting and Finance</font> | <font color = "#32cd32">Publisher: </font></a>       
              <br><br><br>
 
 <font color = "#ff00ff" size = 5><b>Tahun Terbit 2011</b></font><br>  
@@ -1220,6 +1221,115 @@ if pilih_topik == ":rainbow[Definisi ***Stock Trading Volume***]":
 
 
              ''', unsafe_allow_html = True)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if pilih_topik == ":rainbow[Pengaruh ***Stock Trading Volume*** terhadap Harga Saham (***Stock Price***)]":
+    tab1.markdown("<h2 style='text-align: justify; color: #ffcc00;'><center>Penelusuran Literatur berdasarkan Pengaruh <i>Stock Trading Volume</i> terhadap Harga Saham (<i>Stock Price</i>)", unsafe_allow_html=True)
+
+
+    st.write('''
+             
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2024</b></font><br>  
+             [1] <a href = "https://www.researchgate.net/publication/380553674_Fundamental_Analysis_and_Trading_Volume_on_Stock_Prices_with_Company_Size_as_a_Control_Variable#fullTextFileContent" target = "_blank" style = "text-decoration:none">Judul: Fundamental Analysis and Trading Volume on Stock Prices with Company Size as a Control Variable | <font color = "#ff1493">Jurnal: East Asian Journal of Multidisciplinary Research (EAJMR)</font> | <font color = "#32cd32">Publisher: </font></a>     
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2023</b></font><br>  
+             [1] <a href = "http://journal.unmasmataram.ac.id/index.php/GARA/article/view/560" target = "_blank" style = "text-decoration:none">Judul: PENGARUH FAKTOR TEKNIKAL DAN FUNDAMENTAL TERHADAP HARGA SAHAM (STUDI KASUS PERUSAHAAN FOOD AND BEVERAGE DI BEI TAHUN 2019-2021) | <font color = "#ff1493">Jurnal: Jurnal Ganec Swara</font> | <font color = "#32cd32">Publisher: </font></a>       
+             [2] <a href = "https://ictmt.stiepari.org/index.php/journal/article/view/117" target = "_blank" style = "text-decoration:none">Judul: The Effect Of Technical And Fundamental Analysis On Stock Prices | <font color = "#ff1493">Jurnal: Proceeding of International Conference on Digital Advance Tourism, Management and Technology 2023</font> | <font color = "#32cd32">Publisher: </font></a>  
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2018</b></font><br>  
+             [1] <a href = "https://www.ijtef.org/index.php?m=content&c=index&a=show&catid=96&id=977" target = "_blank" style = "text-decoration:none">Judul: How Fundamental Analysis and Technical Analysis Determining the Stock Price: Case Study of Mining Company Listed on the Indonesia Stock Exchange | <font color = "#ff1493">Jurnal: International Journal of Trade, Economics and Finance</font> | <font color = "#32cd32">Publisher: </font></a>       
+
+
+
+
+
+
+
+
+
+             ''', unsafe_allow_html = True)
+
+
+
+
+
+
+
+
+
+
 
 
 
