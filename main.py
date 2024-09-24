@@ -51,7 +51,7 @@ with tab1:
    
    pilih_topik = st.radio(
     "Pilih Topik: ",
-    [":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Kapitalisasi Pasar (***Market Capitalization***)]", ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh Kebangkrutan (***Bankruptcy***) atau Kesulitan Keuangan (***Financial Distress***) atau Kesehatan Keuangan (***Financial Health***) Perusahaan terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Resiko Jatuhnya Harga Saham (***Stock Price Crash Risk***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Kinerja Perusahaan (***Firm Performance***) atau Kinerja Keuangan (***Financial Performance***)]", ":rainbow[Definisi Kinerja Keuangan (***Financial Performance***) Perusahaan atau Kinerja Perusahaan (***Firm Performance***)]", ":rainbow[Definisi ***Market Capitalization***]", ":rainbow[Definisi ***Stock Price Crash Risk***]", ":rainbow[Definisi ***Intellectual Capital***]",     ":rainbow[Bursa Efek Indonesia (***Indonesia Stock Exchange)***]",         ":rainbow[PT Kustodian Sentral Efek Indonesia ]"         ],)
+    [":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Kapitalisasi Pasar (***Market Capitalization***)]", ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh Kebangkrutan (***Bankruptcy***) atau Kesulitan Keuangan (***Financial Distress***) atau Kesehatan Keuangan (***Financial Health***) Perusahaan terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Resiko Jatuhnya Harga Saham (***Stock Price Crash Risk***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Kinerja Perusahaan (***Firm Performance***) atau Kinerja Keuangan (***Financial Performance***)]", ":rainbow[Pengaruh ***Financial Ratio*** terhadap ***Stock Trading Volume***]", ":rainbow[Definisi Kinerja Keuangan (***Financial Performance***) Perusahaan atau Kinerja Perusahaan (***Firm Performance***)]", ":rainbow[Definisi ***Market Capitalization***]", ":rainbow[Definisi ***Stock Price Crash Risk***]", ":rainbow[Definisi ***Intellectual Capital***]",  ":rainbow[Definisi ***Stock Trading Volume***]",     ":rainbow[Bursa Efek Indonesia (***Indonesia Stock Exchange)***]",         ":rainbow[PT Kustodian Sentral Efek Indonesia ]"         ],)
    
    if pilih_topik == ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Kapitalisasi Pasar (***Market Capitalization***)]":
 
@@ -595,6 +595,36 @@ if pilih_topik == ":rainbow[Definisi ***Market Capitalization***]":
              
 
 
+             
+
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2024</b></font><br>  
+             [1] <a href = "https://link.springer.com/article/10.1007/s11294-024-09885-2" target = "_blank" style = "text-decoration:none">Judul: Investor Attention and Stock Liquidity in the Chinese Market | <font color = "#ff1493">Jurnal:   International Advances in Economic Research </font> | <font color = "#32cd32">Publisher: Springer</font></a>       
+            
+
+             
+<p style="text-align:justify">
+<font style="color:#DAA520; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+        <font size = 4>
+
+        Control variables encompass stock market capitalization (MktCap), calculated as the product of stock price and outstanding shares
+      
+
+</font>
+</font>
+</p>	
+
+
+
+
+
+
+
+
+
+
+
 
 <font color = "#ff00ff" size = 5><b>Tahun Terbit 2023</b></font><br>  
              [1] <a href = "https://www.tandfonline.com/doi/full/10.1080/23322039.2023.2252652" target = "_blank" style = "text-decoration:none">Judul: Six-factor plus intellectual capital in the capital asset pricing model and excess stock return: Empirical evidence in emerging stock markets | <font color = "#ff1493">Jurnal: Cogent Economics & Finance</font> | <font color = "#32cd32">Publisher: Taylor & Francis</font></a>       
@@ -603,7 +633,6 @@ if pilih_topik == ":rainbow[Definisi ***Market Capitalization***]":
              
 
              
-
 
 
 
@@ -638,12 +667,85 @@ if pilih_topik == ":rainbow[Definisi ***Market Capitalization***]":
 
 
 
+[2] <a href = "https://www.sciencedirect.com/science/article/pii/S2214845022000199" target = "_blank" style = "text-decoration:none">Judul: How do market capitalization and intellectual capital determine industrial investment? | <font color = "#ff1493">Jurnal:  Borsa Istanbul Review</font> | <font color = "#32cd32">Publisher: Elsevier</font></a>       
+            
+
+
+<p style="text-align:justify">
+<font style="color:#DAA520; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+        <font size = 4>
+
+        Market capitalization and intellectual capital can be understood as two main that can play a dynamic role in multiple organizational decisions. Given that, the current study examines the role of market capitalization and intellectual capital in determining corporate investment decisions. The statistical analysis first reveals the positive significant effect of market capitalization on investment decisions because of the availability of sufficient funds for investment. It then substantiates the significant role of human capital, structural capital, and capital employed efficiency in protecting industrial investment. The empirical findings offer policy implications on how market capitalization (MC) and intellectual capital (IC) promote investment decisions. Among others, the volume of market capitalization by firms is a vital financial factor that allows them to deliberately make some investments (Armstrong & Vashishtha, 2012). Therefore, this study explores the impact of market capitalization (MC) and IC on industrial investment. To measure industrial investment, this study uses the ratio of a firm's total expenses to acquire capital assets to total assets (Chen et al., 2019). This ratio further indicates the firm's intention to expand its existing business operations by acquiring these assets. The main explanatory variables include MC, the cumulative market worth of a firm, which demonstrates the total monetary value of a firm's stocks. Consequently, we make the following contributions to the existing literature. First, this study supplements empirical evidence regarding the importance of MC in industrial investment. Industrial enterprises that have higher market capitalization enjoy positive investment growth. In addition, the empirical analysis demonstrates the investment behavior of firms that invest more in the development of their intellectual capital (IC). These firms have a positive attitude toward capital investment. Among other things, market capitalization shows that the market value of a company can help to enhance the volume of business by establishing more PPE activities. A company with more market capitalization has few financial problems and has enough financial resources for investment (Kuvshinov & Zimmermann, 2021). Additionally, these enterprises can collect more funds through the issuance of more stocks due to a good market reputation. When a company has high market capital, it can obtain funds more easily, which has positive spillover on engaging in physical projects. In addition to financing, market capitalization shows the market reputation of enterprises and helps in obtaining other benefits, for example, low information asymmetry between shareholders and firm managers, ease in trade activities (both purchasing and selling), and a first preference of wise brains (Mukherjee et al., 2018). In view of the cumulative benefits of market capital, high market capitalization provides important stimulus for capital investment.
+
+       
+
+</font>
+</font>
+</p>	
+	
 
 
 
 
 
 
+
+<p style="text-align:justify">
+<font style="color:#DAA520; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+        <font size = 4>
+
+        Using financial resources, firms make investments to expand their existing productive operations (Kumar & Ranjani, 2018). Greater availability of funds enables industries to invest in new ventures. These notions show the importance of finance in the expansion of industrial investment. Market capitalization is an important financial source through which enterprises finance their multiple operations (Buchuk et al., 2014). It also indicates the value of a company in the financial market and typically plays a vital role in multiple business decisions. In this regard, Polk and Sapienza (2009) studied the relationship between stock exchange performance and corporate investment. Testing the catering theory, they documented a positive relationship between discretionary accruals and abnormal investment, indicating the significance of the stock market in investmentrelated decisions. Bakke and Whited (2010) also confirm the role of the stock market in industrial investment. Despite the large number of studies that describe the potential role of funds in determining industrial investment (Hugonnier et al., 2015; Nnadi et al., 2021; Shiau et al., 2018; Yang et al., 2017), no study has clearly illustrated the linkages between market capitalization and firm investment decisions. Thus, our study is an early attempt to explore this relationship.
+
+       
+
+</font>
+</font>
+</p>	
+
+
+<p style="text-align:justify">
+<font style="color:#DAA520; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+        <font size = 4>
+
+        H1. There exists a positive and significant connection between high market capitalization and industrial investment.
+
+        H2a. HCE is positively and significantly related to industrial investment decisions.
+
+        H2b. There exists a positive significant correlation between SCE and investment decisions.
+
+        H2c. : CEE has a significant positive impact on corporate investment decisions.
+
+       
+
+</font>
+</font>
+</p>	
+
+
+
+<p style="text-align:justify">
+<font style="color:#DAA520; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+        <font size = 4>
+
+        Market capitalization (MC) is an explanatory variable, calculated by multiplying the total shares outstanding by the market value per share. It shows the financial wealth of a company in an open market. MC further shows the total funds available to a company to finance its business operations. Dias (2013) is based on a similar calculation of MC
+
+       
+
+</font>
+</font>
+</p>	
+
+
+
+
+
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2021</b></font><br>  
+             [1] <a href = "https://www.sciencedirect.com/science/article/pii/S2214785320363756" target = "_blank" style = "text-decoration:none">Judul: Market capitalization: Pre and post COVID-19 analysis | <font color = "#ff1493">Jurnal: Materials Today: Proceedings</font> | <font color = "#32cd32">Publisher: Elsevier</font></a>       
+             <br><br><br>
+
+             
 
 
 
@@ -796,6 +898,142 @@ if pilih_topik == ":rainbow[Definisi ***Market Capitalization***]":
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+if pilih_topik == ":rainbow[Pengaruh ***Financial Ratio*** terhadap ***Stock Trading Volume***]":
+    tab1.markdown("<h2 style='text-align: justify; color: #ffcc00;'><center>Penelusuran Literatur berdasarkan Pengaruh <i>Financial Ratio</i> terhadap <i>Stock Trading Volume</i>", unsafe_allow_html=True)
+
+
+    st.write('''
+             
+
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2017</b></font><br>  
+             [1] <a href = "https://www.tandfonline.com/doi/abs/10.1080/10599231.2017.1346408" target = "_blank" style = "text-decoration:none">Judul: The Role of Financial Ratios in the Variance of Stock Trading Volume in Emerging Stock Markets | <font color = "#ff1493">Jurnal: Journal of Asia-Pacific Business</font> | <font color = "#32cd32">Publisher: Taylor & Francis</font></a>       
+             <br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+             ''', unsafe_allow_html = True)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 if pilih_topik == ":rainbow[Definisi ***Stock Price Crash Risk***]":
     tab1.markdown("<h2 style='text-align: justify; color: #ffcc00;'><center>Penelusuran Literatur berdasarkan Definisi <i>Stock Price Crash Risk</i>", unsafe_allow_html=True)
 
@@ -874,6 +1112,84 @@ if pilih_topik == ":rainbow[Definisi ***Intellectual Capital***]":
 
 
              ''', unsafe_allow_html = True)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if pilih_topik == ":rainbow[Definisi ***Stock Trading Volume***]":
+    tab1.markdown("<h2 style='text-align: justify; color: #ffcc00;'><center>Penelusuran Literatur berdasarkan Definisi <i>Stock Trading Volume</i>", unsafe_allow_html=True)
+
+
+    st.write('''
+             
+
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2021</b></font><br>  
+             [1] <a href = "https://www.emerald.com/insight/content/doi/10.1108/JDQS-01-2021-0003/full/html" target = "_blank" style = "text-decoration:none">Judul: The short-term mean reversion of stock price and the change in trading volume | <font color = "#ff1493">Jurnal: Journal of Derivatives and Quantitative Studies</font> | <font color = "#32cd32">Publisher: Emerald</font></a>       
+             <br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+             ''', unsafe_allow_html = True)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
