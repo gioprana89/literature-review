@@ -611,7 +611,6 @@ if pilih_topik == ":rainbow[Definisi ***Market Capitalization***]":
 
              
 <p style="text-align:justify">
-
 <font style="color:#DAA520; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
         <font size = 4>
 
@@ -625,7 +624,6 @@ if pilih_topik == ":rainbow[Definisi ***Market Capitalization***]":
 
 
 <p style="text-align:justify">
-
 <font style="color:#DAA520; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
         <font size = 4>
 
@@ -650,7 +648,6 @@ if pilih_topik == ":rainbow[Definisi ***Market Capitalization***]":
 
              
 <p style="text-align:justify">
-
 <font style="color:#DAA520; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
         <font size = 4>
 
@@ -679,7 +676,6 @@ if pilih_topik == ":rainbow[Definisi ***Market Capitalization***]":
 
              
 <p style="text-align:justify">
-
 <font style="color:#DAA520; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
         <font size = 4>
 
