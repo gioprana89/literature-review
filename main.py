@@ -1291,6 +1291,8 @@ if pilih_topik == ":rainbow[Definisi ***Stock Trading Volume***]":
 
 
 
+
+
 if pilih_topik == ":rainbow[Pengaruh ***Stock Trading Volume*** terhadap Harga Saham (***Stock Price***)]":
     tab1.markdown("<h2 style='text-align: justify; color: #ffcc00;'><center>Penelusuran Literatur berdasarkan Pengaruh <i>Stock Trading Volume</i> terhadap Harga Saham (<i>Stock Price</i>)", unsafe_allow_html=True)
 
