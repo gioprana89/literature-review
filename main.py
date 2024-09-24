@@ -602,6 +602,62 @@ if pilih_topik == ":rainbow[Definisi ***Market Capitalization***]":
 
              
 
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2022</b></font><br>  
+             [1] <a href = "https://link.springer.com/article/10.1007/s42521-022-00066-6" target = "_blank" style = "text-decoration:none">Judul: Persistence in daily returns of stocks with highest market capitalization in the Indian market | <font color = "#ff1493">Jurnal:  Digital Finance</font> | <font color = "#32cd32">Publisher: Springer</font></a>       
+            
+
+             
+<p style="text-align:justify">
+<font style="color:#DAA520; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+        <font size = 4>
+
+         The choice of stocks in our analysis is under the assumption that, for any stock to be included in the index, it has to have the market power to influence public opinion, credibility amongst stakeholders, higher and steady returns, therefore making it the top performer amongst the sector to which it belongs (Gompers & Metrick, 2001). Within the NIFTY index, we have chosen ten stocks with highest market capitalisation as they are perceived to possess the aforementioned characteristics. This will be useful to understand market dynamics and investor behaviour. The asset returns of stocks in NIFTY index used in this study are: ICICI BANK LTD., BHARTI AIRTEL LTD., WIPRO LTD., HERO MOTO CORP LTD., NMDC LTD., CIPLA LTD., CAIRN INDIA LTD., UNITED SPIRITS LTD., POWER FINANCE CORPN. LTD. and OIL INDIA LTD. The daily returns of stocks over a period of ten years from 2005 to 2015 are used in the study. The returns are calculated as the differences in log price and are used for the following analyses
+       
+
+</font>
+</font>
+</p>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
