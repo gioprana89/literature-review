@@ -13,8 +13,6 @@ import plotly.express as px
 
 
 
-
-
 st.write('''<style>
          a:hover {
          background-color: yellow;
@@ -932,8 +930,8 @@ if pilih_topik == ":rainbow[Pengaruh ***Financial Ratio*** terhadap ***Stock Tra
 
 <font color = "#ff00ff" size = 5><b>Tahun Terbit 2023</b></font><br>  
              [1] <a href = "https://www.inovatus.es/index.php/ejbsos/article/view/1867" target = "_blank" style = "text-decoration:none">Judul: The Influence of Fundamental Factors on Stock Trading Volume and Share Prices of Conventional Finance Companies Listed on the Indonesian Stock Exchange | <font color = "#ff1493">Jurnal: European Journal of Business Startups and Open Society</font> | <font color = "#32cd32">Publisher: </font></a>       
+             [2] <a href = "https://journal.um-surabaya.ac.id/index.php/balance/article/view/17671" target = "_blank" style = "text-decoration:none">Judul: The Effect Of Retained Earnings On Trading Volume Activity (TVA) With Return On Assets As A Moderation Variable | <font color = "#ff1493">Jurnal: BALANCE : Economic, Business, Management, and Accounting Journal</font> | <font color = "#32cd32">Publisher: </font></a>       
              <br><br><br>
-
              
 
 
@@ -947,7 +945,9 @@ if pilih_topik == ":rainbow[Pengaruh ***Financial Ratio*** terhadap ***Stock Tra
 
 
 
-
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2020</b></font><br>  
+             [1] <a href = "https://jurnal.unimed.ac.id/2012/index.php/jcrs/article/view/18530/13574" target = "_blank" style = "text-decoration:none">Judul: THE XBRL TECHNOLOGYAND MARKET EFFICIENCY IN BANKING COMPANIES LISTED ON THE INDONESIA STOCK EXCHANGE (IDX) | <font color = "#ff1493">Jurnal: Journal of Community Research and Service</font> | <font color = "#32cd32">Publisher: </font></a>       
+             <br><br><br>
 
 
 
@@ -966,7 +966,11 @@ if pilih_topik == ":rainbow[Pengaruh ***Financial Ratio*** terhadap ***Stock Tra
 
 <font color = "#ff00ff" size = 5><b>Tahun Terbit 2017</b></font><br>  
              [1] <a href = "https://www.tandfonline.com/doi/abs/10.1080/10599231.2017.1346408" target = "_blank" style = "text-decoration:none">Judul: The Role of Financial Ratios in the Variance of Stock Trading Volume in Emerging Stock Markets | <font color = "#ff1493">Jurnal: Journal of Asia-Pacific Business</font> | <font color = "#32cd32">Publisher: Taylor & Francis</font></a>       
+             [2] <a href = "http://www.jbrc.pk/volumes/Paper5-7.pdf" target = "_blank" style = "text-decoration:none">Judul: Determinants of Trading Volume in Karachi Stock Market | <font color = "#ff1493">Jurnal: Jinnah Business Review</font> | <font color = "#32cd32">Publisher: </font></a>       
              <br><br><br>
+
+
+
 
 
 <font color = "#ff00ff" size = 5><b>Tahun Terbit 2015</b></font><br>  
@@ -1195,10 +1199,15 @@ if pilih_topik == ":rainbow[Definisi ***Stock Trading Volume***]":
 
 
 
+
+
 <font color = "#ff00ff" size = 5><b>Tahun Terbit 2021</b></font><br>  
              [1] <a href = "https://www.emerald.com/insight/content/doi/10.1108/JDQS-01-2021-0003/full/html" target = "_blank" style = "text-decoration:none">Judul: The short-term mean reversion of stock price and the change in trading volume | <font color = "#ff1493">Jurnal: Journal of Derivatives and Quantitative Studies</font> | <font color = "#32cd32">Publisher: Emerald</font></a>       
              <br><br><br>
 
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2011</b></font><br>  
+             [1] <a href = "https://onlinelibrary.wiley.com/doi/10.1111/j.1475-6803.2010.01285.x" target = "_blank" style = "text-decoration:none">Judul: THE FUNDAMENTAL DETERMINANTS OF TRADING VOLUME REACTION TO FINANCIAL INFORMATION: EVIDENCE AND IMPLICATIONS FOR EMPIRICAL CAPITAL MARKET RESEARCH | <font color = "#ff1493">Jurnal: The Journal of Financial Research</font> | <font color = "#32cd32">Publisher: WILEY</font></a>       
+             <br><br><br>
 
 
 
