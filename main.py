@@ -349,11 +349,21 @@ if pilih_topik == ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Kinerja
              
 
 
+             
+
+
+
+  <font color = "#ff00ff" size = 5><b>Tahun Terbit 2023</b></font><br>  
+             [1] <a href = "https://link.springer.com/article/10.1186/s43093-023-00208-1" target = "_blank" style = "text-decoration:none">Judul: The influence of intellectual capital on organizational performance | <font color = "#ff1493">Jurnal: Future Business Journal</font> | <font color = "#32cd32">Publisher: Springer</font></a>
+             <br><br><br>
+
+
+
 
 <font color = "#ff00ff" size = 5><b>Tahun Terbit 2020</b></font><br>  
              [1] <a href = "https://www.emerald.com/insight/content/doi/10.1108/JIC-09-2019-0225/full/html" target = "_blank" style = "text-decoration:none">Judul: Measures that matter: an empirical investigation of intellectual capital and financial performance of banking firms in Indonesia | <font color = "#ff1493">Jurnal: Journal of Intellectual Capital</font> | <font color = "#32cd32">Publisher: Emerald</font></a>       
              [2] <a href = "https://journals.sagepub.com/doi/abs/10.1177/0972262920914108" target = "_blank" style = "text-decoration:none">Judul: Intellectual Capital and Profitability: Evidence from Indian Pharmaceutical Sector | <font color = "#ff1493">Jurnal: Vision: The Journal of Business Perspective</font> | <font color = "#32cd32">Publisher: SAGE Journals</font></a>       
-             <br><br><br>
+             <br>
 
 
              
@@ -363,8 +373,27 @@ if pilih_topik == ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Kinerja
              <br><br><br>
 
 
+             
+  <font color = "#ff00ff" size = 5><b>Tahun Terbit 2016</b></font><br>  
+             [1] <a href = "https://journals.sagepub.com/doi/abs/10.1177/0972150916645703" target = "_blank" style = "text-decoration:none">Judul: Measuring Intellectual Capital and Its Impact on Financial Performance: Empirical Evidence from CNX Nifty Companies | <font color = "#ff1493">Jurnal: Global Business Review</font> | <font color = "#32cd32">Publisher: SAGE Journal</font></a>
+             <br><br><br>
 
 
+
+
+  <font color = "#ff00ff" size = 5><b>Tahun Terbit 2015</b></font><br>  
+             [1] <a href = "https://www.semanticscholar.org/reader/7a200641b5bb5f4d71067d5121528571e106bb4e" target = "_blank" style = "text-decoration:none">Judul: Impact of Intellectual capital on Financial Performance and Market Valuation of Firms in India | <font color = "#ff1493">Jurnal: International Letters of Social and Humanistic Sciences</font> | <font color = "#32cd32">Publisher: </font></a>
+             <br><br><br>
+
+
+
+
+
+
+
+  <font color = "#ff00ff" size = 5><b>Tahun Terbit 2013</b></font><br>  
+             [1] <a href = "https://www.emerald.com/insight/content/doi/10.1108/14691931311323887/full/html" target = "_blank" style = "text-decoration:none">Judul: Intellectual capital and financial performance: an evaluation of the Australian financial sector | <font color = "#ff1493">Jurnal: Measuring Business Excellence</font> | <font color = "#32cd32">Publisher: Emerald</font></a>
+             <br><br><br>
 
 
 
@@ -372,6 +401,31 @@ if pilih_topik == ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Kinerja
              [1] <a href = "https://www.emerald.com/insight/content/doi/10.1108/13683041211204671/full/html" target = "_blank" style = "text-decoration:none">Judul: The effect of intellectual capital on firm performance: an investigation of Iran insurance companies | <font color = "#ff1493">Jurnal: Measuring Business Excellence</font> | <font color = "#32cd32">Publisher: Emerald</font></a>
              <br><br><br>
 
+             
+
+
+  <font color = "#ff00ff" size = 5><b>Tahun Terbit 2011</b></font><br>  
+             [1] <a href = "https://www.emerald.com/insight/content/doi/10.1108/14691931111097944/full/html" target = "_blank" style = "text-decoration:none">Judul: The impact of intellectual capital on firms' market value and financial performance | <font color = "#ff1493">Jurnal: Measuring Business Excellence</font> | <font color = "#32cd32">Publisher: Emerald</font></a>
+             <br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <font color = "#ff00ff" size = 5><b>Tahun Terbit 2009</b></font><br>  
+             [1] <a href = "https://www.emerald.com/insight/content/doi/10.1108/14691930910977798/full/html" target = "_blank" style = "text-decoration:none">Judul: Indian software and pharmaceutical sector IC and financial performance | <font color = "#ff1493">Jurnal: Measuring Business Excellence</font> | <font color = "#32cd32">Publisher: Emerald</font></a>
+             <br><br><br>
 
 
 
@@ -391,7 +445,24 @@ if pilih_topik == ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Kinerja
 
 
 <font color = "#ff00ff" size = 5><b>Tahun Terbit 2005</b></font><br>  
-             [1] <a href = "https://www.emerald.com/insight/content/doi/10.1108/14691930510592771/full/html" target = "_blank" style = "text-decoration:none">Judul: An empirical investigation of the relationship between intellectual capital and firms’ market value and financial performance | <font color = "#ff1493">Jurnal: Journal of Intellectual Capital</font> | <font color = "#32cd32">Publisher: Emerald</font></a>    
+             [1] <a href = "https://www.emerald.com/insight/content/doi/10.1108/14691930510592771/full/html" target = "_blank" style = "text-decoration:none">Judul: An empirical investigation of the relationship between intellectual capital and firms’ market value and financial performance | <font color = "#ff1493">Jurnal: Journal of Intellectual Capital</font> | <font color = "#32cd32">Publisher: Emerald</font></a><br><br><br>  
+
+
+             
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2003</b></font><br>  
+             [1] <a href = "https://www.emerald.com/insight/content/doi/10.1108/14691930310487806/full/html" target = "_blank" style = "text-decoration:none">Judul: Intellectual capital and traditional measures of corporate performance | <font color = "#ff1493">Jurnal: Journal of Intellectual Capital</font> | <font color = "#32cd32">Publisher: Emerald</font></a><br>
+             [2] <a href = "https://www.emerald.com/insight/content/doi/10.1108/10222529200300003/full/html" target = "_blank" style = "text-decoration:none">Judul: Testing the relationship between intellectual capital and a company’s performance: Evidence from South Africa | <font color = "#ff1493">Jurnal: Journal of Intellectual Capital</font> | <font color = "#32cd32">Publisher: Emerald</font></a><br><br><br>  
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -528,6 +599,114 @@ if pilih_topik == ":rainbow[Definisi ***Market Capitalization***]":
 <font color = "#ff00ff" size = 5><b>Tahun Terbit 2023</b></font><br>  
              [1] <a href = "https://www.tandfonline.com/doi/full/10.1080/23322039.2023.2252652" target = "_blank" style = "text-decoration:none">Judul: Six-factor plus intellectual capital in the capital asset pricing model and excess stock return: Empirical evidence in emerging stock markets | <font color = "#ff1493">Jurnal: Cogent Economics & Finance</font> | <font color = "#32cd32">Publisher: Taylor & Francis</font></a>       
              <br><br><br>
+
+             
+
+
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2020</b></font><br>  
+             [1] <a href = "https://www.tandfonline.com/doi/full/10.1080/23311975.2020.1750332" target = "_blank" style = "text-decoration:none">Judul: Corporate governance on intellectual capital disclosure and market capitalization | <font color = "#ff1493">Jurnal: Cogent Business & Management</font> | <font color = "#32cd32">Publisher: Taylor & Francis</font></a>       
+            
+
+             
+<p style="text-align:justify">
+
+<font style="color:#DAA520; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+        <font size = 4>
+
+             Market capitalization in a company refers to the number of shares outstanding multiplied by the market price per share (Abdelkarim & Almumani, 2018). In general, the benchmark to measure the value of a company is market capitalization or more generally, wealth is created by a company that represents the collective value of a company or stock. Now, market capitalization has become a universally accepted indicator of business valuation (Abdelkarim & Almumani, 2018). It represents the aggregate value of the company or stock. Capital formation is an integral part of economic growth and development and plays an important role in economic theory of production and distribution (Abraham & Ofosu, 2018). Capital accumulation is assumed to facilitate faster economic growth. Stock market growth is measured by market capitalization.
+
+       
+
+</font>
+</font>
+</p>	
+
+
+<p style="text-align:justify">
+
+<font style="color:#DAA520; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+        <font size = 4>
+
+        
+           
+             Market capitalization is the value of a company traded on the stock market and this makes it one of the factors considered by investors in making investment decisions. There are, however, several variables influencing the high or low market capitalization and an example is the information published concerning the implementation of corporate governance. The basic framework to predict the reaction of the stock market to this information is explained through the use of signaling theory (Woudstra et al., 2017). Several existing studies have confirmed that stock market rewards companies with more comprehensive corporate governance with high values but there are limited studies on the reasons for this action (Pae & Choi, 2011).
+
+
+</font>
+</font>
+</p>	
+
+
+
+
+
+
+             
+
+ [2] <a href = "https://www.tandfonline.com/doi/full/10.1080/1540496X.2018.1509790" target = "_blank" style = "text-decoration:none">Judul: The Influences of Book-to-Price Ratio and Stock Capitalization on Value-at-Risk Estimation in Taiwan Stock Market | <font color = "#ff1493">Jurnal: Cogent Business & Management</font> | <font color = "#32cd32">Publisher: Taylor & Francis</font></a>       
+            
+
+             
+<p style="text-align:justify">
+
+<font style="color:#DAA520; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+        <font size = 4>
+
+       In general, a company with smaller market cap has higher bankruptcy risk than the company with larger market cap. Additionally, the smaller cap companies generally has less stable earnings than the larger cap ones. Consequently, for sustaining these risks, the smaller cap stocks should require higher expected returns than the larger cap ones
+
+</font>
+</font>
+</p>	
+
+
+
+
+
+
+
+
+             
+
+
+
+<br><br>
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2009</b></font><br>  
+             [1] <a href = "https://journals.sagepub.com/doi/abs/10.1509/jmkg.73.6.119" target = "_blank" style = "text-decoration:none">Judul: Expanding the Role of Marketing: From Customer Equity to Market Capitalization | <font color = "#ff1493">Jurnal: Journal of Marketing</font> | <font color = "#32cd32">Publisher: SAGE Journal</font></a>       
+            
+
+             
+<p style="text-align:justify">
+
+<font style="color:#DAA520; text-align: justify; font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;">
+        <font size = 4>
+
+       Calculating MC (Market Capitalization). A popular measure of firm valuation is MC, which is based on the stock price of the firm. Under this approach, firm value is computed as the product of the stock price of the firm and the number of outstanding shares in the market. According to the efficient market theory, stock prices incorporate all information about the expected future earnings (Fama 1970). Thus, measures based on stock price can be assumed to be a good proxy for the longterm performance of the firm.
+
+</font>
+</font>
+</p>	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
