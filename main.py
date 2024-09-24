@@ -918,6 +918,11 @@ if pilih_topik == ":rainbow[Pengaruh ***Financial Ratio*** terhadap ***Stock Tra
     st.write('''
              
 
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2023</b></font><br>  
+             [1] <a href = "https://www.inovatus.es/index.php/ejbsos/article/view/1867" target = "_blank" style = "text-decoration:none">Judul: The Influence of Fundamental Factors on Stock Trading Volume and Share Prices of Conventional Finance Companies Listed on the Indonesian Stock Exchange | <font color = "#ff1493">Jurnal: European Journal of Business Startups and Open Society</font> | <font color = "#32cd32">Publisher: </font></a>       
+             <br><br><br>
+
+
 
 
 <font color = "#ff00ff" size = 5><b>Tahun Terbit 2017</b></font><br>  
@@ -925,8 +930,10 @@ if pilih_topik == ":rainbow[Pengaruh ***Financial Ratio*** terhadap ***Stock Tra
              <br><br><br>
 
 
-
-
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2015</b></font><br>  
+             [1] <a href = "https://www.ccsenet.org/journal/index.php/ibr/article/view/48011" target = "_blank" style = "text-decoration:none">Judul: The Effect of Financial Indicators on Trading Volume of the Listed Companies on the Tehran Stock Exchange | <font color = "#ff1493">Jurnal: International Business Research</font> | <font color = "#32cd32">Publisher: </font></a>                  
+             [2] <a href = "https://www.sciencedirect.com/science/article/pii/S1877042815054580" target = "_blank" style = "text-decoration:none">Judul: The Effect of Return on Equity (ROE) and Return on Investment (ROI) on Trading Volume | <font color = "#ff1493">Jurnal: Procedia - Social and Behavioral Sciences</font> | <font color = "#32cd32">Publisher: Elsevier</font></a>       
+             <br><br><br>
 
 
 
