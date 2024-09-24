@@ -147,6 +147,16 @@ if pilih_topik == ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financ
              <br><br><br>
 
 
+             
+
+ <font color = "#ff00ff" size = 5><b>Tahun Terbit 2020</b></font><br>  
+             [1] <a href = "https://journal.jis-institute.org/index.php/ijfr/article/view/280" target = "_blank" style = "text-decoration:none">Judul: The Effect Of Return On Assets, Return On Equity, Net Profit Margin, Earning Per Share, And Operating Profit Margin On Stock Prices Of Banking Companies In Indonesia Stock Exchange | <font color = "#ff1493">Jurnal: International Journal of Finance Research</font> | <font color = "#32cd32">Publisher: </font></a>
+            <br><br><br>
+
+
+
+
+
  <font color = "#ff00ff" size = 5><b>Tahun Terbit 2019</b></font><br>  
              [1] <a href = "https://journal.uinjkt.ac.id/index.php/etikonomi/article/view/10987/pdf" target = "_blank" style = "text-decoration:none">Judul: The Determinant of Stock Prices: Evidence on Food and Beverage Companies in Indonesia | <font color = "#ff1493">Jurnal: Etikonomi</font> | <font color = "#32cd32">Publisher: </font></a>
             <br><br><br>
@@ -920,6 +930,33 @@ if pilih_topik == ":rainbow[Pengaruh ***Financial Ratio*** terhadap ***Stock Tra
 
 <font color = "#ff00ff" size = 5><b>Tahun Terbit 2023</b></font><br>  
              [1] <a href = "https://www.inovatus.es/index.php/ejbsos/article/view/1867" target = "_blank" style = "text-decoration:none">Judul: The Influence of Fundamental Factors on Stock Trading Volume and Share Prices of Conventional Finance Companies Listed on the Indonesian Stock Exchange | <font color = "#ff1493">Jurnal: European Journal of Business Startups and Open Society</font> | <font color = "#32cd32">Publisher: </font></a>       
+             <br><br><br>
+
+             
+
+
+
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2022</b></font><br>  
+             [1] <a href = "https://www.e-journal.trisakti.ac.id/index.php/ijca/article/view/15155/8898" target = "_blank" style = "text-decoration:none">Judul: FACTORS THAT DETERMINE STOCK RETURNS MODERATED BY STOCK TRADING VOLUME IN MANUFACTURING COMPANIES LISTED ON THE INDONESIAN STOCK EXCHANGEFOR THE 2017-2021 PERIOD | <font color = "#ff1493">Jurnal: International Journal of Contemporary Accounting</font> | <font color = "#32cd32">Publisher: </font></a>       
+             <br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2019</b></font><br>  
+             [1] <a href = "https://d1wqtxts1xzle7.cloudfront.net/65025226/Jurnal_Trading_Volume_Activity-libre.pdf?1606281161=&response-content-disposition=inline%3B+filename%3DFactors_Affecting_Trading_Volume_Activit.pdf&Expires=1727179817&Signature=F-2kexVh2Hjbfb6bgVnb9~Tq66jhvTTsU7UXtdunI9w4FSMY~U1x8Iu3HpkBtNdDvTY7eM7HRWV~oetgOrdl0qTujtcvlZXkVryCPDRoqGW8wL1cBTHrNuYWbKU76bZzY5IZ-SlhgaJ2N-MLwGD20uQE-wWCnR9IYLjIb2Q1ISp5YhnkMlxmsZhhdCClo5PTGJo~MD8dvOByTvp2Ibm-xHY4G5Wl32OMo0iY7jErJAMiNUKj3jzI0S-TpREnKUirXP0Ic6tJu2Nc0hTzncLSjfFf7KjY5SCdOLxqn39nyY8BF2T~LZxggMMbuM7WCoI1YUEgCvdflTjD1MW36jJ7JQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA" target = "_blank" style = "text-decoration:none">Judul: Factors Affecting Trading Volume Activity with Tobin’s Q as an Intervening Variable LQ45 Company in Indonesia Stock Exchange | <font color = "#ff1493">Jurnal: IOSR Journal of Business and Management (IOSR-JBM)</font> | <font color = "#32cd32">Publisher: </font></a>       
              <br><br><br>
 
 
