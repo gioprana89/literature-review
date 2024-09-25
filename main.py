@@ -51,7 +51,7 @@ with tab1:
    
    pilih_topik = st.radio(
     "Pilih Topik: ",
-    [":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Kapitalisasi Pasar (***Market Capitalization***)]", ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh Kebangkrutan (***Bankruptcy***) atau Kesulitan Keuangan (***Financial Distress***) atau Kesehatan Keuangan (***Financial Health***) Perusahaan terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Resiko Jatuhnya Harga Saham (***Stock Price Crash Risk***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Kinerja Perusahaan (***Firm Performance***) atau Kinerja Keuangan (***Financial Performance***)]", ":rainbow[Pengaruh ***Financial Ratio*** terhadap ***Stock Trading Volume***]", ":rainbow[Pengaruh ***Stock Trading Volume*** terhadap Harga Saham (***Stock Price***)]", ":rainbow[Definisi Kinerja Keuangan (***Financial Performance***) Perusahaan atau Kinerja Perusahaan (***Firm Performance***)]", ":rainbow[Definisi ***Market Capitalization***]", ":rainbow[Definisi ***Stock Price Crash Risk***]", ":rainbow[Definisi ***Intellectual Capital***]",  ":rainbow[Definisi ***Stock Trading Volume***]",     ":rainbow[Bursa Efek Indonesia (***Indonesia Stock Exchange)***]",         ":rainbow[PT Kustodian Sentral Efek Indonesia ]"         ],)
+    [":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Kapitalisasi Pasar (***Market Capitalization***)]", ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh Kebangkrutan (***Bankruptcy***) atau Kesulitan Keuangan (***Financial Distress***) atau Kesehatan Keuangan (***Financial Health***) Perusahaan terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Harga Saham (***Stock Price***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Resiko Jatuhnya Harga Saham (***Stock Price Crash Risk***)]", ":rainbow[Pengaruh ***Intellectual Capital*** terhadap Kinerja Perusahaan (***Firm Performance***) atau Kinerja Keuangan (***Financial Performance***)]", ":rainbow[Pengaruh ***Financial Ratio*** terhadap ***Stock Trading Volume***]", ":rainbow[Pengaruh ***Stock Trading Volume*** terhadap Harga Saham (***Stock Price***)]", ":rainbow[Definisi Kinerja Keuangan (***Financial Performance***) Perusahaan atau Kinerja Perusahaan (***Firm Performance***)]", ":rainbow[Definisi ***Market Capitalization***]", ":rainbow[Definisi ***Stock Price Crash Risk***]", ":rainbow[Definisi ***Intellectual Capital***]",  ":rainbow[Definisi ***Stock Trading Volume***]",     ":rainbow[Bursa Efek Indonesia (***Indonesia Stock Exchange)***]",         ":rainbow[PT Kustodian Sentral Efek Indonesia ]" , ":rainbow[Katadata]"        ],)
    
    if pilih_topik == ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financial Performance***) atau Rasio Finansial (***Financial Ratios***) terhadap Kapitalisasi Pasar (***Market Capitalization***)]":
 
@@ -967,7 +967,8 @@ if pilih_topik == ":rainbow[Pengaruh ***Financial Ratio*** terhadap ***Stock Tra
 <font color = "#ff00ff" size = 5><b>Tahun Terbit 2017</b></font><br>  
              [1] <a href = "https://www.tandfonline.com/doi/abs/10.1080/10599231.2017.1346408" target = "_blank" style = "text-decoration:none">Judul: The Role of Financial Ratios in the Variance of Stock Trading Volume in Emerging Stock Markets | <font color = "#ff1493">Jurnal: Journal of Asia-Pacific Business</font> | <font color = "#32cd32">Publisher: Taylor & Francis</font></a>       
              [2] <a href = "http://www.jbrc.pk/volumes/Paper5-7.pdf" target = "_blank" style = "text-decoration:none">Judul: Determinants of Trading Volume in Karachi Stock Market | <font color = "#ff1493">Jurnal: Jinnah Business Review</font> | <font color = "#32cd32">Publisher: </font></a>       
-             <br><br><br>
+             [3] <a href = "https://ojs.unud.ac.id/index.php/akuntansi/article/view/29958/21555" target = "_blank" style = "text-decoration:none">Judul: Pengaruh Informasi Arus Kas, Laba Bersih dan Pengungkapan Corporate Social Responsibility Pada Volume Perdagangan Saham  | <font color = "#ff1493">Jurnal: E-Jurnal Akuntansi Universitas Udayana</font> | <font color = "#32cd32">Publisher: </font></a>       
+                    
 
 
 
@@ -1291,8 +1292,6 @@ if pilih_topik == ":rainbow[Definisi ***Stock Trading Volume***]":
 
 
 
-
-
 if pilih_topik == ":rainbow[Pengaruh ***Stock Trading Volume*** terhadap Harga Saham (***Stock Price***)]":
     tab1.markdown("<h2 style='text-align: justify; color: #ffcc00;'><center>Penelusuran Literatur berdasarkan Pengaruh <i>Stock Trading Volume</i> terhadap Harga Saham (<i>Stock Price</i>)", unsafe_allow_html=True)
 
@@ -1308,6 +1307,7 @@ if pilih_topik == ":rainbow[Pengaruh ***Stock Trading Volume*** terhadap Harga S
 <font color = "#ff00ff" size = 5><b>Tahun Terbit 2023</b></font><br>  
              [1] <a href = "http://journal.unmasmataram.ac.id/index.php/GARA/article/view/560" target = "_blank" style = "text-decoration:none">Judul: PENGARUH FAKTOR TEKNIKAL DAN FUNDAMENTAL TERHADAP HARGA SAHAM (STUDI KASUS PERUSAHAAN FOOD AND BEVERAGE DI BEI TAHUN 2019-2021) | <font color = "#ff1493">Jurnal: Jurnal Ganec Swara</font> | <font color = "#32cd32">Publisher: </font></a>       
              [2] <a href = "https://ictmt.stiepari.org/index.php/journal/article/view/117" target = "_blank" style = "text-decoration:none">Judul: The Effect Of Technical And Fundamental Analysis On Stock Prices | <font color = "#ff1493">Jurnal: Proceeding of International Conference on Digital Advance Tourism, Management and Technology 2023</font> | <font color = "#32cd32">Publisher: </font></a>  
+             [3] <a href = "https://www.inovatus.es/index.php/ejbsos/article/view/1867" target = "_blank" style = "text-decoration:none">Judul: The Influence of Fundamental Factors on Stock Trading Volume and Share Prices of Conventional Finance Companies Listed on the Indonesian Stock Exchange | <font color = "#ff1493">Jurnal: EUROPEAN JOURNAL OF BUSINESS STARTUPS AND OPEN SOCIETY</font> | <font color = "#32cd32">Publisher: </font></a>  
 
 
 <font color = "#ff00ff" size = 5><b>Tahun Terbit 2018</b></font><br>  
@@ -1375,6 +1375,61 @@ if pilih_topik == ":rainbow[Bursa Efek Indonesia (***Indonesia Stock Exchange)**
     tab1.markdown("<h2 style='text-align: justify; color: #ffcc00;'><center>Penelusuran Literatur di Bursa Efek Indonesia (<i>Indonesia Stock Exchange</i>)", unsafe_allow_html=True)
 
     
+    st.write('''
+             
+
+             
+
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2023</b></font><br>  
+             [1] Judul: IDX Statistics 2023 | <a href = "https://www.idx.co.id/Media/e3ppd3kq/idx_4th-quarter_2023.pdf" target = "_blank" style = "text-decoration:none">Link IDX</a> | <a href = "https://drive.google.com/file/d/1UugU78sMNF5RE_Beppwj9WEq-rA9Xr3d/view?usp=sharing" target = "_blank" style = "text-decoration:none">Link Drive</a>
+
+
+
+
+
+
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2022</b></font><br>  
+             [1] Judul: IDX Statistics 2022 | <a href = "https://www.idx.co.id/Media/5pfnt4gg/idx_yearly_statistics_2022.pdf" target = "_blank" style = "text-decoration:none">Link IDX</a> | <a href = "https://drive.google.com/file/d/1otJPxPA4WwHujmrxoGN7gE_MJOkxB3cd/view?usp=sharing" target = "_blank" style = "text-decoration:none">Link Drive</a>
+
+             
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2021</b></font><br>  
+             [1] Judul: IDX Statistics 2021 | <a href = "https://www.idx.co.id/Media/11330/idx_annually-statistic_2021.pdf" target = "_blank" style = "text-decoration:none">Link IDX</a> | <a href = "https://drive.google.com/file/d/1FeiWncTwp2h1ptvgTNEMSQ-UeLG3GxiU/view?usp=sharing" target = "_blank" style = "text-decoration:none">Link Drive</a>
+
+
+<font color = "#ff00ff" size = 5><b>Tahun Terbit 2020</b></font><br>  
+             [1] Judul: IDX Statistics 2020 | <a href = "" target = "_blank" style = "text-decoration:none">Link IDX</a> | <a href = "https://drive.google.com/file/d/1cqGdUvqILtWKuU4qnyHKrf5j9ZJXqFtQ/view?usp=sharing" target = "_blank" style = "text-decoration:none">Link Drive</a>
+
+
+
+
+
+
+             ''', unsafe_allow_html = True)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1404,7 +1459,10 @@ if pilih_topik == ":rainbow[PT Kustodian Sentral Efek Indonesia ]":
 
 
 
+if pilih_topik == ":rainbow[Katadata]":
+    tab1.markdown("<h2 style='text-align: justify; color: #ffcc00;'><center>Penelusuran Literatur di Katadata", unsafe_allow_html=True)
 
+    
 
 
 
