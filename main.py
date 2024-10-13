@@ -137,6 +137,16 @@ if pilih_topik == ":rainbow[Pengaruh Kinerja Keuangan Perusahaan (***Firm Financ
              [4] <a href = "https://ip2i.org/jip/index.php/ema/article/view/100" target = "_blank" style = "text-decoration:none">Judul: The effect of cash flow changes on stock prices | <font color = "#ff1493">Jurnal: Jurnal Ekonomi, Manajemen dan Akuntansi</font> | <font color = "#32cd32">Publisher: </font></a>
              <br>
              [5] <a href = "https://ip2i.org/jip/index.php/ema/article/view/129" target = "_blank" style = "text-decoration:none">Judul: The effect of earning per share and debt to equity ratio on the share price | <font color = "#ff1493">Jurnal: Jurnal Ekonomi, Manajemen dan Akuntansi</font> | <font color = "#32cd32">Publisher: </font></a>
+             <br>
+             [6] <a href = "http://www.exsys.iocspublisher.org/index.php/JMAS/article/view/526" target = "_blank" style = "text-decoration:none">Judul: The influence of current ratio, debt to equity ratio, earnings per share, and net profit margin on the stock prices of mining companies in the oil, gas, and coal sub-sector | <font color = "#ff1493">Jurnal: Journal of Management Science (JMAS)</font> | <font color = "#32cd32">Publisher: </font></a>
+             <br>
+             [7] <a href = "https://journal.ubpkarawang.ac.id/index.php/cibefns/article/view/7028" target = "_blank" style = "text-decoration:none">Judul: THE INFLUENCE OF EARNINGS PER SHARE, DIVIDEND PAYOUT RATIO, AND DEBT TO ASSET RATIO ON STOCK PRICES | <font color = "#ff1493">Jurnal: Proceeding International Conference on Bussiness and Entrepreneurship for Nation’s Sustainability Universitas Buana Perjuangan Karawang</font> | <font color = "#32cd32">Publisher: </font></a>
+             <br>
+             [8] <a href = "https://rsglobal.pl/index.php/ijite/article/view/2860" target = "_blank" style = "text-decoration:none">Judul: EXCHANGE RATE AS A MODERATING VARIABLE: EFFECT ON STOCK PRICES | <font color = "#ff1493">Jurnal: International Journal of Innovative Technologies in Economy</font> | <font color = "#32cd32">Publisher: </font></a>
+             <br>
+             [9] <a href = "https://goodwoodpub.com/index.php/JoMAPS/article/view/2295" target = "_blank" style = "text-decoration:none">Judul: Technical and fundamental analysis of insurance stock prices on the Indonesian Stock Exchange (2018–2022) | <font color = "#ff1493">Jurnal: Journal of Multidisciplinary Academic and Practice Studies (JoMAPS)</font> | <font color = "#32cd32">Publisher: </font></a>
+             <br>
+             [10] <a href = "https://www.ijssrr.com/journal/article/view/1871" target = "_blank" style = "text-decoration:none">Judul: The Influence of Profitability and Solvency on Stock Prices with Dividend Policy as a Moderating Variable in Food and Beverage Sector Companies on the Indonesian Stock Exchange 2020-2022 | <font color = "#ff1493">Jurnal: International Journal of Social Science Research and Review</font> | <font color = "#32cd32">Publisher: </font></a>             
              <br><br><br>
 
 
@@ -1543,6 +1553,15 @@ with col11:
     st.markdown("""<center><img src="https://statkomat.com/streamlit-ugi/indcomp.gif" width="50"><br><a href = 'https://indcomp-stats.id/' target = '_blank' style = 'text-decoration:none'></center><center><font color = 'orange'><b>INDCOMP</b></font></center></a>""",unsafe_allow_html=True)
 with col12:
     st.markdown("""<center><img src="https://statkomat.com/streamlit-ugi/github.png" width="50"><br><a href = 'https://github.com/gioprana89' target = '_blank' style = 'text-decoration:none'></center><center><font color = 'orange'><b>GITHUB</b></font></center></a>""",unsafe_allow_html=True)
+
+
+
+st.markdown("")
+st.markdown("")
+
+col13, col14, col15, col16, col17, col18 = st.columns([2, 2, 2, 2, 2, 2])
+with col13:
+    st.markdown("""<center><img src="https://statkomat.com/streamlit-ugi/cfa.gif" width="50"><br><a href = 'https://cfa-aplikasi.streamlit.app/' target = '_blank' style = 'text-decoration:none'></center><center><font color = 'orange'><b>CONFIRMATORY FACTOR ANALYSIS (CFA)</b></font></center></a>""",unsafe_allow_html=True)
 
 
 
